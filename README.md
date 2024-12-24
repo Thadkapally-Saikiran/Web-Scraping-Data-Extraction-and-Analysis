@@ -47,9 +47,9 @@ Welcome to the **Web Scraping: Data Extraction and Analysis** project! This repo
    ```bash
    pip install -r requirements.txt
    ```
-3. Execute the scraping script:  
+3. Open the Google Colab:  
    ```bash
-   python src/scrape_data.py
+   upload notebook and execute line by line
    ```
 4. Analyze and visualize the data:  
    - Run the Jupyter notebooks for a step-by-step walkthrough.  
