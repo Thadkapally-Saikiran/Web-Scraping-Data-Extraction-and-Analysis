@@ -36,3 +36,40 @@ Welcome to the **Web Scraping: Data Extraction and Analysis** project! This repo
      - Present data trends in an easy-to-understand format ✅.  
 
 ---
+
+## ⚙️ How to Run
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your_username/web-scraping-data-analysis.git
+   ```
+2. Install required dependencies:  
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Execute the scraping script:  
+   ```bash
+   python src/scrape_data.py
+   ```
+4. Analyze and visualize the data:  
+   - Run the Jupyter notebooks for a step-by-step walkthrough.  
+
+---
+
+## 🎯 Project Outcomes
+
+- **Efficient data retrieval** from web pages with dynamic content.  
+- **Clean and structured datasets** for further analysis.  
+- **Visualized insights** to identify trends and patterns in large-scale data.  
+
+---
+
+## 🧩 Future Enhancements
+
+- Add support for **APIs** to complement scraping pipelines.  
+- Integrate with **SQL/NoSQL databases** for better storage solutions.  
+- Enhance performance for **real-time scraping** of high-traffic websites.  
+
+---
+
+## Enjoy exploring data! 🚀✨
