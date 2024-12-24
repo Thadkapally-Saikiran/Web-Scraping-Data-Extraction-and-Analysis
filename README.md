@@ -41,7 +41,7 @@ Welcome to the **Web Scraping: Data Extraction and Analysis** project! This repo
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your_username/web-scraping-data-analysis.git
+   git clone https://github.com/Thadkapally-Saikiran/Web-Scraping-Data-Extraction-and-Analysis.git
    ```
 2. Install required dependencies:  
    ```bash
